@@ -1,0 +1,5 @@
+.venv
+test.gsd
+.python-version
+.poetry.lock
+__pycache__
